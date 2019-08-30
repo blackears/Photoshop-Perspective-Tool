@@ -1,0 +1,4 @@
+Photoshop Perspective Tool
+Copyright 2016 Mark McKay
+
+https://github.com/blackears/Photoshop-Perspective-Tool
